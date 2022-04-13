@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eltiwany" alt="eltiwany" /></a> </p>
 
-- 🔭 I’m currently working on [Konekted IoT Web](https://github.com/eltiwany/konekted-iot-web), [Konekted IoT API](https://github.com/eltiwany/konekted-iot-api) and [Konekted IoT Arduino Library](https://github.com/eltiwany/konekted-iot-library)
+- 🔭 I’m currently working on [Konekted IoT Web2](https://github.com/eltiwany/konekted-iot-web2), [Konekted IoT API](https://github.com/eltiwany/konekted-iot-api) and [Konekted IoT Arduino Library](https://github.com/eltiwany/konekted-iot-library)
 
 - 🌱 I’m currently learning **How to brand myself and/or my future company**
 
